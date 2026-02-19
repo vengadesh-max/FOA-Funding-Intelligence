@@ -1,0 +1,19 @@
+{
+  "foa_id": "FOA-38262",
+  "title": "Lock",
+  "agency": "Grants.gov",
+  "open_date": "N/A",
+  "close_date": "N/A",
+  "eligibility_text": "N/A",
+  "program_description": "N/A",
+  "award_range": "N/A",
+  "source_url": "https://www.grants.gov/web/grants/view-opportunity.html?oppId=123456",
+  "semantic_tags": {
+    "research_domains": [],
+    "methods": [],
+    "populations": [],
+    "sponsor_themes": [
+      "general"
+    ]
+  }
+}
